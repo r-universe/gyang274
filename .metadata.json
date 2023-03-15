@@ -1,10 +1,10 @@
 [
   {
-    "package": "skm",
+    "package": "gbp",
     "oncran": true
   },
   {
-    "package": "gbp",
+    "package": "skm",
     "oncran": true
   }
 ]
