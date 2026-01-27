@@ -5,6 +5,3 @@
 [submodule "gbp"]
 	path = gbp
 	url = https://github.com/gyang274/gbp
-[submodule "skm"]
-	path = skm
-	url = https://github.com/gyang274/skm
